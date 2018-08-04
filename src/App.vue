@@ -3,7 +3,7 @@
     img(src='http://www.mariomendoza.com.ve/img/logo.png')
     h1 {{title}}
     select(v-model="selectedCountry")
-     option(v-for="country in countries" v-bind:value="country.value") {{country.name}}
+      option(v-for="country in countries" v-bind:value="country.value") {{country.name}}
     spinner(v-show="loading")
 
     ul
@@ -24,7 +24,8 @@ export default {
         { name:'Argentina', value:'argentina' },
         { name:'Venezuela', value:'venezuela' },
         { name:'Canada', value:'canada' },
-        { name:'Chile', value:'chile' }
+        { name:'Chile', value:'chile' },
+        { name:'Corea del Sur', value:'Korea,+republic+of' }
       ],
       selectedCountry: 'spain',
       loading: true,
