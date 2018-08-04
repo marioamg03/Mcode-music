@@ -1,6 +1,7 @@
 # proyecto
 
 > proyecto del curso de introduccion a Vue.js de Platzi
+> link: https://marioamg03.github.io/mcode-music/
 
 ## Build Setup
 
