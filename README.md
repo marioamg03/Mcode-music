@@ -1,6 +1,10 @@
-# proyecto
+# Mcode Music Project
+Project realized for the basic course of Vue.js of Platzi. Where was created a single Web-App using data from a api of last.fm and thus obtain a list of Top singers from different countries.
 
-> proyecto del curso de introduccion a Vue.js de Platzi
+# Proyecto Mcode Music
+Proyecto realizado para el curso básico de Vue.js de Platzi. Donde se creo un single Web-App utilizando datos de una api de last.fm y así obtener una lista de los cantantes Top de diferentes países.
+
+## Url
 > link: https://marioamg03.github.io/mcode-music/
 
 ## Build Setup
